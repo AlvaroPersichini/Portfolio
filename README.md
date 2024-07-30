@@ -1,5 +1,8 @@
 # Mechanical-Engineer
-Mechanical Engineer Projects
+Mechanical Engineer Automotive Ind.
+
+# Programming Technician
+.NET Developer
 
 ### Education
 Mechanical Engineer (UNR)
