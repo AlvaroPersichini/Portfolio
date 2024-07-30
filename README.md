@@ -1,4 +1,4 @@
-# Mechanical-Engineer / .NET Developer
+# Mechanical-Engineer/.NET Developer
 
 ### Education
 Mechanical Engineering Degree - Universidad Nacional Rosario
