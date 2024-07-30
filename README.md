@@ -1,10 +1,9 @@
 # Mechanical-Engineer/.NET Developer
 
 ### Education
-Mechanical Engineering Degree - Universidad Nacional Rosario.
-
-Technical Certification in Programming - Universidad Tecnológica Nacional
-English: B1+
+Mechanical Engineering Degree - Universidad Nacional Rosario.  
+Technical Certification in Programming - Universidad Tecnológica Nacional  
+English: B1+  
 Portuguese
 
 ### Work Experience
