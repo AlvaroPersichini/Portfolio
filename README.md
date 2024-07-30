@@ -1,4 +1,4 @@
-# Mechanical-Engineer-Portfolio
+# Mechanical-Engineer
 Mechanical Engineer Projects
 
 ### Education
